@@ -1,0 +1,27 @@
+# Allow a dummy project in this directory for testing purposes
+myproject
+
+/node_modules
+/.idea
+*.tsbuildinfo
+
+# meta data
+/.images.car
+/.metadata.car
+
+/cache
+
+/artifacts
+
+/images
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# parcel-bundler cache (https://parceljs.org/)
+.cache
+
+docs/.env.example

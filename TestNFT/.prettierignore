@@ -1,0 +1,12 @@
+.tmp
+dist/
+.cache/
+coverage/
+/tests/format/**/*.*
+!/tests/format/**/jsfmt.spec.jsfmt/tests/integration/plugines/
+/tests/integration/custom-parsets/
+/website/build/
+/website/static/lib/
+/website/static/playground.jsfmt
+.nyc_output
+/vendors/
